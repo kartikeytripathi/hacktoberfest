@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kartikey Tripathi](https://github.com/kartikeytripathi)
+ - Place: New Delhi, India
+ - Bio: Computer Science Student
+ - GitHub: [Kartikey Tripathi](https://github.com/kartikeytripathi)
